@@ -1,2 +1,8 @@
-package com.nl;public class Test1 {
+package com.nl;
+
+public class Test1 {
+    public static void main(String[] args){
+
+        System.out.println("Hello");
+    }
 }
